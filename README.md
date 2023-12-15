@@ -5,17 +5,6 @@
 <a href="https://t.me/mrtgcoderbot">
   <img src="https://img.shields.io/badge/ʙᴏᴛ-blue?logo=telegram" width="80">
 
-<button class="star-button">
-  <i class="fa-star fa"></i> Stars: <span id="star-count">0</span>
-</button>
-<button class="fork-button">
-  <i class="fa-git-branch fa"></i> Forks: <span id="fork-count">0</span>
-</button>
-<button class="contribution-button">
-  <i class="fa-code fa"></i> Contributions: <span id="contribution-count">0</span>
-</button>
-
-
 ## Credits
 
 [owner](https://t.me/MrTG_Coder)
